@@ -1,5 +1,5 @@
 ###
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AshwinBalakrishna-official&hide=issues&show_icons=true&theme=merko)]
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AshwinBalakrishna-official&hide=issues&show_icons=true&theme=merko) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
