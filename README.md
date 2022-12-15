@@ -1,5 +1,5 @@
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshwinBalakrishna-official&hide=issues&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=AshwinBalakrishna-official&hide=issues&show_icons=true&theme=merko)
 
 
 <!--
